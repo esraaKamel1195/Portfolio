@@ -1,0 +1,15 @@
+.section {
+    background-image: -moz-linear-gradient(0deg, #62bdfc 0%, #8490ff 100%);
+    background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%);
+    padding-block-start: 40px;
+    .section-content {
+        margin-inline-start: 40px;
+        margin-inline-end: 40px;
+        background-color: #ffffff;
+        border-radius: 10px;
+        display: flex;
+        li {
+            
+        }
+    }
+}
